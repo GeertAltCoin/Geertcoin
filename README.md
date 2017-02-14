@@ -23,6 +23,7 @@ port=64333
 For more information, as well as an immediately useable, binary version of
 the Geertcoin client sofware, see:
 http://www.geertcoin.com
+
 https://github.com/GeertAltCoin/Geertcoin/blob/master/release/geertcoin-qt.exe
 
 License
